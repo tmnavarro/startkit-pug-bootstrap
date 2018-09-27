@@ -1,0 +1,17 @@
+{
+  "name": "startkit-pug-bootstrap",
+  "description": "Startkit Bootstrap Pug",
+  "main": "gulpfile.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.1.3"
+  }
+}
